@@ -2,6 +2,7 @@
 # HashCheck
 
 HashCheck is a Python application designed to compute and verify hash values of files using various hash algorithms. It provides a simple GUI interface for users to select files, choose hash algorithms, and compare hash values.
+
 ![image](https://github.com/pyroalww/HashCheck/assets/134533935/abec9a20-e650-4d3e-a5e9-301a223ceaf1)
 
 ## Usage
